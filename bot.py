@@ -25,7 +25,7 @@ class Bot:
                 return '''You can use these commands:
                     > hello
                     > add <name> <phone>
-                    > change <name> <phone>
+                    > change <name> <old_phone> <new_phone>
                     > phone <name>
                     > search <text>
                     > show all
